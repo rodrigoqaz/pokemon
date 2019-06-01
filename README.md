@@ -1,2 +1,0 @@
-# pokemon
-Análise dataset kaggle
